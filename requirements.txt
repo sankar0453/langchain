@@ -12,3 +12,7 @@ pypdf
 chromadb
 faiss-cpu
 lancedb
+groq
+cassio
+beautifulsoup4
+ 
