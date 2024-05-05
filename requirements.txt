@@ -15,4 +15,6 @@ lancedb
 groq
 cassio
 beautifulsoup4
- 
+wikipedia
+arxiv
+langchainhub
