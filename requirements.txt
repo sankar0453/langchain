@@ -15,6 +15,7 @@ lancedb
 groq
 cassio
 beautifulsoup4
+langchain-groq
 wikipedia
 arxiv
 langchainhub
